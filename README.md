@@ -2,5 +2,5 @@
 
 ## About
 
-This repo contans my configs (dotfiles)
+This repo contains my configs (dotfiles).
 
